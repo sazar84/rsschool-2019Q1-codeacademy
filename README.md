@@ -6,4 +6,4 @@ git remote add origin https://github.com/your-name/rsschool-2019Q1-codeacademy.g
 git push -u origin master
 
 Siarhei Azardovich
-HTML CSS Basics: https://www.codecademy.com/users/YOUR-NAME/achievements
+HTML CSS Basics: https://www.codecademy.com/users/s.azar842728270671/achievements
